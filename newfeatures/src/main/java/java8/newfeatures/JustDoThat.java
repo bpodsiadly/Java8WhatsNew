@@ -1,6 +1,6 @@
 package java8.newfeatures;
 
-public class JustDoIt {
+public class JustDoThat {
 
 	public static void main(String[] args) {
 		pleaseCheckIt();
